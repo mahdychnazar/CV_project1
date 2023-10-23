@@ -130,3 +130,4 @@ def yolo_to_pascal_voc(class_id, width, height, x, y, w, h):
 if __name__ == "__main__":
     main()
 
+#streamlit run main.py
